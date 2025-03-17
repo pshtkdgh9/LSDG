@@ -1,6 +1,10 @@
-# Source code of APTGuard Published in 
-Sangho Song "[Large-Scale Dynamic Graph Processing with Graphic Processing Unit-Accelerated Priority-Driven Differential Scheduling and Operation Reduction](https://www.mdpi.com/2076-3417/15/6/3172)," applied sciences, 2025.
+# Source code of LSDG Published in 
+Sangho Song. el "[Large-Scale Dynamic Graph Processing with Graphic Processing Unit-Accelerated Priority-Driven Differential Scheduling and Operation Reduction](https://www.mdpi.com/2076-3417/15/6/3172)," applied sciences, 2025.
 
+## Model architecture
+<div align="center">
+    <img src="./Model architecture.png" width="100%">
+</div>
 
 ## LSDG
 
