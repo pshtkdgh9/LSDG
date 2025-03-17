@@ -20,6 +20,6 @@ $ ./sssp-TGP --input path-to-input-graph --source 10
 
 
 #  ./sswp-TGP --input ./make_snapshot/twitter7_snapshot4.el
-
+```
 ## Comments
 If you have any questions about the code, please feel free to ask here or contact me via email at <ssh@cbnu.ac.kr>. This work is designed based on [Egraph](https://gitee.com/GPGPM/EGraph.git). Thanks for their excellent work!
